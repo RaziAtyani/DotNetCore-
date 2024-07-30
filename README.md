@@ -1,4 +1,5 @@
-Create a new project using .NET Core API./n
+TASK STEPS:
+Create a new project using .NET Core API.
 Utilize fake data from the following URL to implement the API endpoints: https://jsonplaceholder.typicode.com
 Implement the following API endpoints:
 Create a new team
